@@ -3,7 +3,7 @@ import Home from './views/Home.vue'
 </script>
 
 <template>
-  <div>
+  <div style="overflow-x: hidden;">
     <Home />
   </div>
 </template>
